@@ -1,39 +1,39 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_598_Athena_Commando_M_Mastermind"],
+    "itemGrants": ["AthenaCharacter:CID_683_Athena_Commando_F_TigerFashion"],
     "price": 1500
   },
   "daily2": {
-    "itemGrants": ["AthenaItemWrap:Wrap_139_Prismatic"],
+    "itemGrants": ["AthenaItemWrap:Wrap_128_FragmentedGlowEclipse"],
     "price": 300
   },
   "daily3": {
-    "itemGrants": ["AthenaGlider:Glider_ID_104_FuzzyBear"],
-    "price": 1200
+    "itemGrants": ["AthenaBackPack:BID_435_Constellation"],
+    "price": 500
   },
   "daily4": {
-    "itemGrants": ["AthenaDance:EID_Fresh"],
-    "price": 3500
+    "itemGrants": ["AthenaDance:EID_KpopDance04"],
+    "price": 500
   },
   "daily5": {
-    "itemGrants": ["AthenaDance:EID_Floss"],
-    "price": 5000
-  },
-  "daily6": {
-    "itemGrants": ["AthenaMusicPack:MusicPack_039_Envy"],
+    "itemGrants": ["AthenaDance:EID_LasagnaDance"],
     "price": 800
   },
+  "daily6": {
+    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_294_CandyCane"],
+    "price": 1500
+  },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_369_Athena_Commando_F_DevilRock"],
-    "price": 2000
+    "itemGrants": ["AthenaCharacter:CID_634_Athena_Commando_F_GalileoRocket_ARVEH"],
+    "price": 1500
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_370_Athena_Commando_M_EvilSuit"],
-    "price": 2000
+    "itemGrants": ["AthenaCharacter:CID_606_Athena_Commando_F_JetSki"],
+    "price": 1200
   },
   "featured3": {
-    "itemGrants": ["AthenaDance:EID_KingEagle"],
-    "price": 0
+    "itemGrants": ["AthenaCharacter:CID_593_Athena_Commando_F_SoccerZombieA"],
+    "price": 1200
   }
 }
